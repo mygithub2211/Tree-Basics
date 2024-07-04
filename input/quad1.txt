@@ -1,3 +1,0 @@
-4
-A B C D E 
-F _ _ _ _ _ G H _ _ _ _ I J K L
